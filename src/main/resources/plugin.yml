@@ -1,0 +1,4 @@
+name: ExampleAPI
+version: '${version}'
+main: xyz.steffq.exampleapi.ExampleAPI
+api-version: '1.20'
